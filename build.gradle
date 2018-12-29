@@ -1,0 +1,6 @@
+// mainとtestをそれぞれビルドするために、javaプラグインを指定
+apply plugin: 'java'
+// 実行可能クラスの指定、実行可能mainメソッドを持つクラスの指定にはapplicationプラグインを指定
+apply plugin: 'application'
+// 実行対象クラスを指定する
+mainClassName = 'Main'
