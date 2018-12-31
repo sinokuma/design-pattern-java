@@ -3,7 +3,7 @@ package Adapter;
 import java.io.IOException;
 
 /**
- * Adaptor動作用クラス
+ * Adapter動作用クラス
  *
  * プロパティをファイルに保存する
  *

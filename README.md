@@ -5,4 +5,4 @@
 ## 目次
 
 * [Iterator](src/main/java/Iterator)
-* [Adaptor](src/main/java/Adaptor)
+* [Adapter](src/main/java/Adapter)
